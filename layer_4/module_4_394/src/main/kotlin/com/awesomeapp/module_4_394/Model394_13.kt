@@ -1,0 +1,7 @@
+package com.awesomeapp.module_4_394
+
+data class Model394_13(
+    val id: String = "Model394_13-1750551641178",
+    val name: String = "Model for Model394_13",
+    val description: String = "Description for Model394_13"
+)
